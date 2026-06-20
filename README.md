@@ -75,4 +75,5 @@ Group 17
 * Abu Fatah Mohammed Faisal
 
 Curtin University
+
 STAT5009 – Decision Methods and Predictive Analytics
