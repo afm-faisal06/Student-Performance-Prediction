@@ -1,4 +1,4 @@
-# STAT5009 Capstone Project – Student Performance Prediction
+# Student Performance Prediction (STAT5009 Capstone Project)
 
 ## Overview
 
