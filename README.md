@@ -56,13 +56,12 @@ Model performance was evaluated using:
 ## Repository Contents
 
 ```text
-├── student-por.csv                               # Portuguese student performance dataset
-├── Group17.R                                     # Main R script for data analysis and modelling
-├── Group 17 Project Presentation.pptx            # Project presentation slides
 ├── .Rhistory                                     # RStudio command history
+├── Group 17 Project Presentation.pptx            # Project presentation slides
+├── Group17.R                                     # Main R script for data analysis and modelling
 ├── README.md                                     # Project documentation
+└── student-por.csv                               # Portuguese student performance dataset
 ```
-
 
 ## Authors
 
